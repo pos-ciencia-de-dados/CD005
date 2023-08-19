@@ -1,0 +1,24 @@
+Escreva o título e a definição do projeto final do seu trio.
+
+
+O projeto pode ser feito de três maneiras:
+
+
+ 1. Implementação completa da rede neural e aplicação em dataset simples
+ 2. Uso de biblioteca de deep learning em dataset moderadamente desafiador
+ 3. Uso e ajuste fino de rede/modelo pronto em aplicação de ponta
+
+
+Indicações de aplicações de acordo com a complexidade:
+
+ 1. Datasets simples: UCI Machine Learning Repository - https://archive-beta.ics.uci.edu/ml/datasets
+ 2. Datasets moderadamente desafiadores:
+ 	1. CIFAR-10 e CIFAR-100 (imagens): https://www.cs.toronto.edu/~kriz/cifar.html
+	2. SVHN (imagens): http://ufldl.stanford.edu/housenumbers/
+ 	3. News category (texto): https://www.kaggle.com/datasets/rmisra/news-category-dataset
+ 3. Aplicações de ponta:
+ 	1. Reconhecimento de pedestres em tempo real (processamento de vídeo)
+ 	2. Geração de soluções para equações matemáticas (processamento de texto / linguagem natural)
+ 	3. Alguma aplicação do SERPRO ;)
+
+Fiquem à vontade para sugerir outras aplicações e formas de trabalhar.
