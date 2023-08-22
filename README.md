@@ -18,12 +18,13 @@ Integrantes do Grupo:
 
 #### 1.1. Dados Preliminares
 
-|                       |                                                                                    |
-|-----------------------|------------------------------------------------------------------------------------|
-| Título                | Heart Disease Health Indicators Dataset                                            |
-| Link                  | https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset |
-| Tipo                  | binary classification                                                              |
-| Número de instâncias  | 253680                                                                             |
+|                       |                                                                                         |
+|-----------------------|-----------------------------------------------------------------------------------------|
+| Título                | Heart Disease Health Indicators Dataset                                                 |
+| Link                  | https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset      |
+|                       | https://www.kaggle.com/code/alexteboul/heart-disease-health-indicators-dataset-notebook |
+| Tipo                  | binary classification                                                                   |
+| Número de instâncias  | 253680                                                                                  |
 
 #### 1.2. Características específicas
 
